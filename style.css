@@ -1,0 +1,81 @@
+/* #region General styles  */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #000;
+}
+/* #endregion General styles  */
+.wrapper {
+  max-width: 350px;
+  margin: 37vh auto 0;
+  text-align: center;
+}
+
+/* #region Input block  */
+.input-block {
+  position: relative;
+  margin-bottom: 20px;
+}
+.input-city {
+  display: inline-block;
+  width: 100%;
+  padding: 15px 55px 15px 15px;
+  font-size: 1rem;
+  border-radius: 15px;
+  border: none;
+  outline: 1px solid rgb(192, 192, 0);
+  background-color: #fff;
+}
+.button-search {
+  position: absolute;
+  top: 7px;
+  right: 8px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.img-search {
+  width: 35px;
+}
+
+/* #endregion Input block  */
+
+/* #region Main block  */
+.main-block {
+  padding: 15px 18px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.top-block {
+  display: flex;
+  justify-content: space-between;
+}
+.icon {
+  margin: 20px 0;
+}
+.temperature {
+  font-size: 3.3rem;
+  font-weight: 700;
+}
+.center-block {
+  margin: 40px 0;
+}
+.bottom-block {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  margin-bottom: 70px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.wind span {
+  /* display: block; */
+}
+
+/* #endregion Main block  */
