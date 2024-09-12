@@ -55,9 +55,6 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.icon {
-  margin: 20px 0;
-}
 .temperature {
   font-size: 3.3rem;
   font-weight: 700;
@@ -73,9 +70,6 @@ body {
   margin-bottom: 70px;
   font-size: 0.9rem;
   font-weight: 600;
-}
-.wind span {
-  /* display: block; */
 }
 
 /* #endregion Main block  */
