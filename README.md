@@ -1,6 +1,6 @@
 # Weather API Widget
 
-![Weather API Widget](https://weather-api-widget.netlify.app/favicon.png)
+![Weather API Widget]
 
 Welcome to the **Weather API Widget** project! This web application provides real-time weather information based on a user's location. It uses a weather API to fetch live data and displays it in an easy-to-understand format. You can use this app to quickly check the weather in any city around the world.
 
@@ -53,11 +53,8 @@ open index.html
 
 ## Usage
 1. **Automatic Location Detection:**
-
-Upon visiting the site, the app will prompt to access your location. If allowed, it will automatically fetch and display weather data for your current location.
+   Upon visiting the site, the app will prompt to access your location. If allowed, it will automatically fetch and display weather data for your current location.
 2. **Search for a City:**
-
-Use the search bar at the top of the page to enter any city name. The app will display the current weather for that city.
+   Use the search bar at the top of the page to enter any city name. The app will display the current weather for that city.
 3. **Weather Information:**
-
-The app provides detailed weather information, including temperature, wind speed, humidity, and a description of the current weather conditions.
+   The app provides detailed weather information, including temperature, wind speed, humidity, and a description of the current weather conditions.
